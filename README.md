@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akbar Abdurrahman Jafaruddin
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python and c++
-- 💞️ I’m looking to collaborate on any project about python
+- 👀 I’m interested in data science and back-end developer
+- 🌱 I’m currently learning python, java, and c++
+- 💞️ I’m looking to collaborate on any project about python, java, c++
 - 📫 How to reach me in makassar city, in indonesia
 
 
