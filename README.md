@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on any project about python, java, c++
 - 📫 How to reach me in makassar city, in indonesia
 
+I have second account for my github campus
+https://github.com/AkbarAj15
+
 
 <!---
 AkbarAj/AkbarAj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
