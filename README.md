@@ -5,7 +5,7 @@
 - 📫 How to reach me in makassar city, in indonesia
 
 I have second account for my github campus
-https://github.com/AkbarAj15
+https://github.com/Bujank06
 
 
 <!---
